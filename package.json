@@ -1,0 +1,23 @@
+{
+  "name": "temptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhoninLee/TempTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhoninLee/TempTest/issues"
+  },
+  "homepage": "https://github.com/RhoninLee/TempTest#readme",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
